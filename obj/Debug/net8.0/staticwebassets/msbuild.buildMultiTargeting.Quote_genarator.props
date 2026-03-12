@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Quote_genarator.props" />
+</Project>
