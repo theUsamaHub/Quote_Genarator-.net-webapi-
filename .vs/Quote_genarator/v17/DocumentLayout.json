@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\models\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:models\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Models\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\Subscriber.cs",
+              "RelativeToolTip": "Models\\Subscriber.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:52:37.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20260312052012_RemoveCategory.cs",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312052012_RemoveCategory.cs",
               "RelativeDocumentMoniker": "Migrations\\20260312052012_RemoveCategory.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20260312045703_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312045703_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260312045703_InitialCreate.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "QuoteController.cs",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Controllers\\QuoteController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
@@ -111,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-12T04:34:44.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20260312050051_SeedQuote.cs",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312050051_SeedQuote.cs",
               "RelativeDocumentMoniker": "Migrations\\20260312050051_SeedQuote.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Quote.cs",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\Quote.cs",
               "RelativeDocumentMoniker": "Models\\Quote.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Quote_genarator.csproj",
               "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Quote_genarator.csproj",
               "RelativeDocumentMoniker": "Quote_genarator.csproj",
