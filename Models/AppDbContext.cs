@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Quote_genarator.Models;
+using System.Collections.Generic;
 
 namespace Quote_genarator.Data
 {
@@ -11,6 +12,7 @@ namespace Quote_genarator.Data
         }
 
         public DbSet<Quote> Quotes { get; set; }
+        public DbSet<Subscriber> Subscribers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
