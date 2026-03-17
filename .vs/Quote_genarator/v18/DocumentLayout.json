@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,6 +67,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:10:32.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,14 +102,14 @@
               "RelativeDocumentMoniker": "Controllers\\SubscribersController.cs",
               "ToolTip": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Controllers\\SubscribersController.cs",
               "RelativeToolTip": "Controllers\\SubscribersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T08:04:21.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -105,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20260312052012_RemoveCategory.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Migrations\\20260312052012_RemoveCategory.cs",
               "RelativeDocumentMoniker": "Migrations\\20260312052012_RemoveCategory.cs",
@@ -117,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20260312050051_SeedQuote.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Migrations\\20260312050051_SeedQuote.cs",
               "RelativeDocumentMoniker": "Migrations\\20260312050051_SeedQuote.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "QuoteController.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Controllers\\QuoteController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
@@ -142,19 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAswCUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T07:22:48.058Z"
+              "WhenOpened": "2026-03-12T07:22:48.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
@@ -167,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Quote.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Models\\Quote.cs",
               "RelativeDocumentMoniker": "Models\\Quote.cs",
@@ -179,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Quote_genarator.csproj",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Quote_genarator.csproj",
               "RelativeDocumentMoniker": "Quote_genarator.csproj",
@@ -191,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
