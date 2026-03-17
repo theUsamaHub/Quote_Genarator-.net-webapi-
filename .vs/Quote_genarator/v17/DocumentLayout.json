@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asp\\Downloads\\Quote_genarator\\",
+  "WorkspaceRootPath": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312052012_RemoveCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260312052012_RemoveCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\downloads\\quote_genarator\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\downloads\\quote_genarator\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\downloads\\quote_genarator\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\downloads\\quote_genarator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312050051_SeedQuote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260312050051_SeedQuote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312045703_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260312045703_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\downloads\\quote_genarator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\downloads\\quote_genarator\\quote_genarator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\migrations\\20260312052012_removecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:migrations\\20260312052012_removecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\quote_genarator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:quote_genarator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\migrations\\20260312050051_seedquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:migrations\\20260312050051_seedquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\asp\\desktop\\api project\\quote_genarator-.net-webapi-\\migrations\\20260312045703_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:migrations\\20260312045703_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20260312052012_RemoveCategory.cs",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312052012_RemoveCategory.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312052012_RemoveCategory.cs",
               "RelativeDocumentMoniker": "Migrations\\20260312052012_RemoveCategory.cs",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312052012_RemoveCategory.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312052012_RemoveCategory.cs",
               "RelativeToolTip": "Migrations\\20260312052012_RemoveCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T05:20:13.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260312050051_SeedQuote.cs",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312050051_SeedQuote.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260312050051_SeedQuote.cs",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312050051_SeedQuote.cs",
-              "RelativeToolTip": "Migrations\\20260312050051_SeedQuote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T05:00:51.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "20260312045703_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312045703_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312045703_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260312045703_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Migrations\\20260312045703_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312045703_InitialCreate.cs",
               "RelativeToolTip": "Migrations\\20260312045703_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T04:57:03.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuoteController.cs",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Controllers\\QuoteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Controllers\\QuoteController.cs",
-              "RelativeToolTip": "Controllers\\QuoteController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAkwEkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T04:42:33.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T04:37:07.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T04:57:03.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAABAAAAAAAAAA==",
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "Controllers\\QuoteController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwEkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T04:36:48.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T04:42:33.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:37:07.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Quote.cs",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Models\\Quote.cs",
-              "RelativeDocumentMoniker": "Models\\Quote.cs",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Models\\Quote.cs",
-              "RelativeToolTip": "Models\\Quote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T04:36:24.772Z",
+              "WhenOpened": "2026-03-12T04:36:48.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T04:34:44.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "20260312050051_SeedQuote.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312050051_SeedQuote.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260312050051_SeedQuote.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Migrations\\20260312050051_SeedQuote.cs",
+              "RelativeToolTip": "Migrations\\20260312050051_SeedQuote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:00:51.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Models\\Quote.cs",
+              "RelativeToolTip": "Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:36:24.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Quote_genarator.csproj",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Quote_genarator.csproj",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Quote_genarator.csproj",
               "RelativeDocumentMoniker": "Quote_genarator.csproj",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\Quote_genarator.csproj",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\api project\\Quote_Genarator-.net-webapi-\\Quote_genarator.csproj",
               "RelativeToolTip": "Quote_genarator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-12T04:35:52.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\asp\\Downloads\\Quote_genarator\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\asp\\Downloads\\Quote_genarator\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-12T04:34:44.073Z"
             }
           ]
         }
