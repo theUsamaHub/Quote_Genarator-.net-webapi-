@@ -1,1 +1,12 @@
-{"Version":1,"Hash":"OLyxkcLANo+7r2fHEF0aQ1KEvJVQcALi0vBuOPl/mww=","Source":"Quote_genarator","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "ESZ0DX2roDk7Mssjp0MrqrFG5QoiB39xnDjbPyWuSqY=",
+  "Source": "Quote_genarator",
+  "BasePath": "_content/Quote_genarator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
