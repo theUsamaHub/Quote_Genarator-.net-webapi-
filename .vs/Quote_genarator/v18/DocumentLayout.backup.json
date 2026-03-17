@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:controllers\\subscriberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|solutionrelative:interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0B17D72-0BA2-4372-A667-EAD2D3BD9A60}|Quote_genarator.csproj|c:\\users\\usama saleem\\downloads\\quote_genarator\\quote_genarator\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IEmailService.cs",
@@ -102,7 +102,7 @@
               "RelativeDocumentMoniker": "Controllers\\SubscribersController.cs",
               "ToolTip": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Controllers\\SubscribersController.cs",
               "RelativeToolTip": "Controllers\\SubscribersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T08:04:21.091Z",
               "EditorCaption": ""
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usama Saleem\\Downloads\\Quote_genarator\\Quote_genarator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

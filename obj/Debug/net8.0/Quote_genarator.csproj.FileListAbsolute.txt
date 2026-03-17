@@ -440,3 +440,4 @@ C:\Users\asp\Desktop\api project\Quote_Genarator-.net-webapi-\obj\Debug\net8.0\r
 C:\Users\asp\Desktop\api project\Quote_Genarator-.net-webapi-\obj\Debug\net8.0\Quote_genarator.pdb
 C:\Users\asp\Desktop\api project\Quote_Genarator-.net-webapi-\obj\Debug\net8.0\Quote_genarator.genruntimeconfig.cache
 C:\Users\asp\Desktop\api project\Quote_Genarator-.net-webapi-\obj\Debug\net8.0\ref\Quote_genarator.dll
+C:\Users\Usama Saleem\Downloads\Quote_genarator\Quote_genarator\obj\Debug\net8.0\Quote_genarator.sourcelink.json

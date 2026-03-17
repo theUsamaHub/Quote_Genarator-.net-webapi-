@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Quote_genarator.Data;
 using Quote_genarator.Models;
+using Quote_genarator.Interfaces;
 
 namespace Quote_generator.Controllers
 {

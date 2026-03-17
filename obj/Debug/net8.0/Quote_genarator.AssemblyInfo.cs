@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quote_genarator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f06573d82b790873172b635ff0350af1d47c79f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+282eb4ac0bfda3237dd89923e1a0e23e78e5f7bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quote_genarator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quote_genarator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
